@@ -1,0 +1,19 @@
+{
+  "name": "modal-vue",
+  "version": "0.0.1",
+  "description": "Modal module using Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aletriram@github.com/aletriram/modal-vue.git"
+  },
+  "author": "Alejandro Trinidad <atrinidad@existo.es> (https://github.com/aletriram)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aletriram/modal-vue/issues"
+  },
+  "homepage": "https://github.com/aletriram/modal-vue#readme"
+}
